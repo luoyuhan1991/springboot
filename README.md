@@ -1,5 +1,5 @@
 # springboot
-My Springboot modules
+spring boot学习案例，方便spring boot 初学者快速掌握相关知识
 
 #### Springboot + maven 多模块项目
 
@@ -25,18 +25,18 @@ My Springboot modules
 - [x] 20. [Springboot开启HTTPS](https://github.com/zhangyd-c/springboot/tree/master/springboot-ssl)
 - [x] 21. [Springboot整合Swagger2](https://github.com/zhangyd-c/springboot/tree/master/springboot-swagger)
 - [x] 22. [Springboot使用Validator校验](https://github.com/zhangyd-c/springboot/tree/master/springboot-validator)
-- [x] 22. [Springboot + WebSocket](https://github.com/zhangyd-c/springboot/tree/master/springboot-websocket)
+- [x] 23. [Springboot + WebSocket](https://github.com/zhangyd-c/springboot/tree/master/springboot-websocket)
+- [x] 24. [md5方式加密静态引用资源](https://github.com/zhangyd-c/springboot/tree/master/springboot-urlprovider)
 
 ## 生命不息，折腾不止！
 ### 更多信息，请关注：
-1. [我的博客](http://www.flyat.cc)
-2. [我的工具](http://www.ztool.cc)
-3. [我的微博](http://weibo.com/211230415)
-4. [我的头条号](http://www.toutiao.com/c/user/3286958681/)
-5. [我的mooc](http://www.imooc.com/u/1175248/articles)
+1. [我的博客](http://www.zhyd.me)
+2. [我的微博](http://weibo.com/211230415)
+3. [我的头条号](http://www.toutiao.com/c/user/3286958681/)
+4. [我的mooc](http://www.imooc.com/u/1175248/articles)
+5. [我的Gitee](https://gitee.com/yadong.zhang)
 
 ### 有任何问题可以
 - [new issue](https://github.com/zhangyd-c/springboot/issues)
-- [给我留言](http://www.flyat.cc/guestbook)
-- [![qq](http://pub.idqqimg.com/wpa/images/group.png "加入QQ群")](http://shang.qq.com/wpa/qunwpa?idkey=818382ba0fc222dffc0da6f71aa207bfaf93bafb856e1c852e56de5911cb4c19)
+- [给我留言](http://www.zhyd.me/guestbook)
 ### 如果喜欢，请多多分享、多多Star
